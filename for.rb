@@ -5,5 +5,5 @@ def using_for
 for using_for in checklist
 puts "Wingardium Leviosa"
 end
-
+end
 
